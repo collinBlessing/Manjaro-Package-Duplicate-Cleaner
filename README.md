@@ -26,7 +26,7 @@ To install and use the script, follow these steps:
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/Manjaro-Package-Duplicate-Cleaner.git
+git clone https://github.com/collinblessing/Manjaro-Package-Duplicate-Cleaner.git
 cd Manjaro-Package-Duplicate-Cleaner
 ```
 
