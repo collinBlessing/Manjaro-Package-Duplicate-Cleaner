@@ -63,8 +63,7 @@ sudo python r.py
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
+This project is licensed under the MIT License.
 ## Troubleshooting
 
 - **Permissions Issues**: Ensure you are running the script with `sudo` to have the necessary permissions for accessing system files.
