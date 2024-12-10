@@ -26,7 +26,7 @@ To install and use the script, follow these steps:
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/Manjaro-Package-Duplicate-Cleaner.git
+git clone https://github.com/collinblessing/Manjaro-Package-Duplicate-Cleaner.git
 cd Manjaro-Package-Duplicate-Cleaner
 ```
 
@@ -63,8 +63,7 @@ sudo python r.py
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
+This project is licensed under the MIT License.
 ## Troubleshooting
 
 - **Permissions Issues**: Ensure you are running the script with `sudo` to have the necessary permissions for accessing system files.
